@@ -49,3 +49,15 @@ http://radar.oreilly.com/2009/06/bing-and-google-agree-slow-pag.html
 
 https://blog.codinghorror.com/performance-is-a-feature/
 https://blog.codinghorror.com/speed-still-matters/
+
+<br>
+
+> After launching a Progressive Web App (PWA) that uses Accelerated Mobile Pages (AMP) for content, they saw a 4X decrease in average page load times. In addition, Mynet saw a significant increase in user engagement, with the average time spent on their mobile site rising 43%.
+>
+> * 25% higher revenue per article pageview
+> * 4X faster average page-load speed
+> * 43% longer average time on site
+> * 34% more page views per session
+> * 24% lower bounce rates
+
+https://developers.google.com/web/showcase/2017/mynet
