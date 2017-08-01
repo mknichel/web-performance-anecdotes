@@ -2,6 +2,18 @@
 Anecdotes about how web performance affects products.
 
 
+> 53% of mobile site visits are abandoned if pages take longer than 3 seconds to load
+
+https://www.doubleclickbygoogle.com/articles/mobile-speed-matters/
+
+<br>
+
+> Etsy.com discovered that 160KB of additional images caused their bounce rate to increase 12% on mobile devices.
+
+https://www.sitepoint.com/average-page-weight-increased-another-16-2015/
+
+<br>
+
 > Test results showed that for every one second increase in speed, our engagement score increased by 5%.
 
 http://www.inma.org/blogs/ideas/post.cfm/financial-times-increases-engagement-with-personalisation-speed
