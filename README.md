@@ -2,6 +2,18 @@
 Anecdotes about how web performance affects products.
 
 
+> Every 100ms of additional latency costs Amazon 1% in profit.
+
+http://radar.oreilly.com/2008/08/radar-theme-web-ops.html
+
+<br>
+
+> Yahoo! saw a 5-9% decrease in page traffic when the site was 400ms slower.
+
+https://www.slideshare.net/stoyan/dont-make-me-wait-or-building-highperformance-web-applications
+
+<br>
+
 > 53% of mobile site visits are abandoned if pages take longer than 3 seconds to load
 
 https://www.doubleclickbygoogle.com/articles/mobile-speed-matters/
@@ -24,6 +36,12 @@ http://www.inma.org/blogs/ideas/post.cfm/financial-times-increases-engagement-wi
 
 http://www.phpied.com/the-performance-business-pitch/
 https://conferences.oreilly.com/velocity/velocity2009/public/schedule/detail/7709
+
+<br>
+
+> GQ cut its page load time by 80% and saw a 108% increase in ads interaction rate
+
+https://digiday.com/media/gq-com-cut-page-load-time-80-percent/
 
 <br>
 
