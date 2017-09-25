@@ -1,6 +1,9 @@
 # web-performance-anecdotes
 Anecdotes about how web performance affects products.
 
+**NOTE:** Please check out https://wpostats.com/ and https://pwastats.com for many more performance statistics.
+
+<hr>
 
 > Every 100ms of additional latency costs Amazon 1% in profit.
 
